@@ -2,7 +2,7 @@ import math as m
 
 # FUNÇÃO DO SEGUNDO GRAU (f(x) = ax²+bx+c)
 def funcao_segundograu():
-    ax2 = int(input("\nMe diga o valor de ax²): "))
+    ax2 = int(input("\nMe diga o valor de ax²: "))
     bx = int(input("Me diga o valor de bx: "))
     c = int(input("Me diga o valor de c: "))
 
